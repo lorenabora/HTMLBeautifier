@@ -2,9 +2,9 @@
 This is a small HTML beautifier created in Shell.
 For usage, download the file in your computer( if you are using a directive by Linux, otherwise please use a WSL or a VM).
 You may have to change the permissions of the file. In this case use:
-# chmod +x HTMLBeautifier.sh
+ chmod +x HTMLBeautifier.sh
 After that you should be able to use the beautifier, adding as a parameter the html file you want to format:
-# ./HTMLBeautifier.sh name_of_file.html
+ ./HTMLBeautifier.sh name_of_file.html
 In a few seconds, the new generated code should be displayed in the terminal.
 
 #Attention! 
