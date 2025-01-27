@@ -6,6 +6,7 @@ You may have to change the permissions of the file. In this case use:
 After that you should be able to use the beautifier, adding as a parameter the html file you want to format:
  ./HTMLBeautifier.sh name_of_file.html
 In a few seconds, the new generated code should be displayed in the terminal.
+
 #Attention! 
 
 This is a small project that only adds or removes any kind of spaces( tabs, newlines, blank spaces etc.) and adds tabs in order for your code to respect the correct hierarchy.
