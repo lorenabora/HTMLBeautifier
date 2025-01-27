@@ -7,6 +7,6 @@ After that you should be able to use the beautifier, adding as a parameter the h
  ./HTMLBeautifier.sh name_of_file.html
 In a few seconds, the new generated code should be displayed in the terminal.
 
-##Attention! 
+# Attention! 
 This is a small project that only adds or removes any kind of spaces( tabs, newlines, blank spaces etc.) and adds tabs in order for your code to respect the correct hierarchy.
 It has an erroneous behavior when it finds certain keywords (example: the word type in the script tag when you want to branch a js file to the html file) so please verify the output code when generated.
