@@ -15,11 +15,12 @@ Shell/Bash
 
 ## How to use it
 Before you use it, take notes that you will need a distribution of Linux or to work with a Virtual Machine/ WSL.
-Step 1: download the code from the repo
-Step 2: change the permission of the file in order to be executable
+- Step 1: download the code from the repo
+- Step 2: change the permission of the file in order to be executable
 `chmod +x HTMLBeautifier.sh`
-Step 3: run the program using as paramether the source code in html
+- Step 3: run the program using as paramether the source code in html
 `./HTMLBeautifier.sh name_of_file.html`
+
 After the program runs, short after the beautified code will be parsed in the terminal.
 
 ## Lessons learnt
