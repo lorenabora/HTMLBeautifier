@@ -3,7 +3,7 @@
 This is a program that creates a clean version of the users html code, using all the rules for correct identation for a better understandind/reading of the code.
 
 ## Reasons behind the project
-- While I read through the lines of code in HTML on a previous project, I discovered that messed up identation can cause some errors later on( e.g. forgeting to close a tag or dificulties in updatind the code), so I created this small program that takes the source code and "beautifies" it by adding or removing tabs for a easier to read version that will be parsed on the terminal.
+- While I read through the lines of code in HTML on a previous project, I discovered that messed up identation can cause some errors later on( e.g. forgeting to close a tag or dificulties in updating the code), so I created this small program that takes the source code and "beautifies" it by adding or removing tabs for a easier to read version that will be parsed on the terminal.
 - This way, I learned about the differences between closing tags and what a huge difference is to read a clean code and I added some deep comprehension using the bash shell and grep function in the pipelines.
 
 ## Features
