@@ -25,10 +25,10 @@ After the program runs, short after the beautified code will be parsed in the te
 
 ## Screenshots from a test
 ![Mess1](https://github.com/lorenabora/HTMLBeautifier/blob/main/htmlTest/messy1.jpeg)
-* As you can see, the identation is a totally mess.
+*As you can see, the identation is a totally mess.*
 ![Mess2](https://github.com/lorenabora/HTMLBeautifier/blob/main/htmlTest/messy2.jpeg)
 
-* And now this is how it looks after I run the beautifier.
+*And now this is how it looks after I run the beautifier.*
 ![Clear1](https://github.com/lorenabora/HTMLBeautifier/blob/main/htmlTest/clear1.jpeg)
 ![Clear2](https://github.com/lorenabora/HTMLBeautifier/blob/main/htmlTest/clear2.jpeg)
 
