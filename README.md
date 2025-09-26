@@ -23,6 +23,10 @@ Before you use it, take notes that you will need a distribution of Linux or to w
 
 After the program runs, short after the beautified code will be parsed in the terminal.
 
+## Screenshots from a test
+![Mess1](https://github.com/lorenabora/HTMLBeautifier/blob/main/htmlTest/messy1.jpeg)
+*As you can see, the identation is a totally mess.
+
 ## Lessons learnt
 1. Multiple spaces/tabs/newlines can be a headache, so better get ride of those and work with a draft of the code.
 2. GREP is a lifesavior and a powerfull tool when you want to get some information from a specific location
