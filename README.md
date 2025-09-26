@@ -25,7 +25,10 @@ After the program runs, short after the beautified code will be parsed in the te
 
 ## Screenshots from a test
 ![Mess1](https://github.com/lorenabora/HTMLBeautifier/blob/main/htmlTest/messy1.jpeg)
-*As you can see, the identation is a totally mess.
+* As you can see, the identation is a totally mess.
+![Mess2]()
+![Clear1]()
+![Clear2]()
 
 ## Lessons learnt
 1. Multiple spaces/tabs/newlines can be a headache, so better get ride of those and work with a draft of the code.
